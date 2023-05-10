@@ -1,0 +1,19 @@
+{
+  "name": "blogexpress",
+  "version": "1.0.0",
+  "description": "express projext",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sanajna Patel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^7.0.4",
+    "handlebars-layouts": "^3.1.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
